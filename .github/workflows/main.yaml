@@ -30,15 +30,16 @@
       "LagMax": 120
     }
   },
-  "CommentConfig": {293927
-    "RepliedComment": ["歌曲不错，没想到古早时期的歌现在听一点也不过时。"
+  "CommentConfig": {
+    "RepliedComment": [
       {
+        "Comment": "歌曲不错，没想到古早时期的歌现在听一点也不过时。",
         "MusicID": 293927,
-        "CommentID": 
+        "CommentID": 123456
       },
       {
-        "MusicID": 
-        "CommentID": 
+        "MusicID": 293927,
+        "CommentID": 654321
       }
     ],
     "LagConfig": {
